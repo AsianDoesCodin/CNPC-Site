@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect fill="#1a1a2e" width="400" height="300"/>
+  <!-- Mansion -->
+  <rect fill="#2c2c2c" x="80" y="100" width="240" height="150"/>
+  <rect fill="#1f1f1f" x="100" y="80" width="200" height="30"/>
+  <!-- Towers -->
+  <rect fill="#2c2c2c" x="70" y="60" width="50" height="190"/>
+  <rect fill="#2c2c2c" x="280" y="60" width="50" height="190"/>
+  <!-- Windows with light -->
+  <rect fill="#FFD700" x="100" y="120" width="30" height="40"/>
+  <rect fill="#4a4a4a" x="100" y="120" width="30" height="40" opacity="0.3"/>
+  <rect fill="#FFD700" x="180" y="120" width="40" height="50"/>
+  <rect fill="#4a4a4a" x="180" y="120" width="40" height="50" opacity="0.3"/>
+  <rect fill="#FFD700" x="270" y="120" width="30" height="40"/>
+  <rect fill="#4a4a4a" x="270" y="120" width="30" height="40" opacity="0.3"/>
+  <!-- Door -->
+  <rect fill="#4a2c2a" x="175" y="190" width="50" height="60"/>
+  <!-- Magnifying glass -->
+  <circle fill="none" stroke="#e74c3c" stroke-width="8" cx="330" cy="80" r="25"/>
+  <line stroke="#e74c3c" stroke-width="8" x1="350" y1="100" x2="370" y2="120"/>
+  <!-- Moon -->
+  <circle fill="#F0E68C" cx="50" cy="50" r="25"/>
+  <circle fill="#1a1a2e" cx="40" cy="45" r="20"/>
+</svg>

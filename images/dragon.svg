@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect fill="#14121E" width="400" height="300"/>
+  <!-- End stone platform -->
+  <rect fill="#E8E8B0" x="100" y="200" width="200" height="60"/>
+  <rect fill="#D4D4A0" x="100" y="200" width="200" height="10"/>
+  <!-- Obsidian pillars -->
+  <rect fill="#1a1a2e" x="120" y="100" width="30" height="100"/>
+  <rect fill="#1a1a2e" x="250" y="80" width="30" height="120"/>
+  <!-- Ender crystals -->
+  <polygon fill="#FF69B4" points="135,90 145,70 155,90 145,85"/>
+  <polygon fill="#FF69B4" points="265,70 275,50 285,70 275,65"/>
+  <!-- Dragon -->
+  <ellipse fill="#2c2c4a" cx="200" cy="100" rx="60" ry="30"/>
+  <polygon fill="#2c2c4a" points="260,100 320,80 280,100 320,120"/>
+  <ellipse fill="#1a1a30" cx="150" cy="95" rx="15" ry="10"/>
+  <circle fill="#9b59b6" cx="155" cy="93" r="5"/>
+  <!-- Wings -->
+  <polygon fill="#3d3d5c" points="180,85 150,40 200,80"/>
+  <polygon fill="#3d3d5c" points="220,85 250,40 200,80"/>
+  <!-- Stars -->
+  <circle fill="white" cx="50" cy="50" r="2"/>
+  <circle fill="white" cx="350" cy="30" r="2"/>
+  <circle fill="white" cx="80" cy="150" r="1"/>
+  <circle fill="white" cx="320" cy="140" r="2"/>
+</svg>

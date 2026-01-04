@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB"/>
+      <stop offset="100%" style="stop-color:#E0F6FF"/>
+    </linearGradient>
+  </defs>
+  <rect fill="url(#sky)" width="400" height="300"/>
+  <!-- Ground -->
+  <rect fill="#5D9B47" x="0" y="200" width="400" height="100"/>
+  <!-- Castle -->
+  <rect fill="#7F7F7F" x="120" y="100" width="160" height="100"/>
+  <rect fill="#7F7F7F" x="100" y="80" width="40" height="120"/>
+  <rect fill="#7F7F7F" x="260" y="80" width="40" height="120"/>
+  <!-- Towers -->
+  <rect fill="#6B6B6B" x="105" y="60" width="30" height="30"/>
+  <rect fill="#6B6B6B" x="265" y="60" width="30" height="30"/>
+  <!-- Flag -->
+  <rect fill="#8B4513" x="185" y="50" width="5" height="60"/>
+  <polygon fill="#FF0000" points="190,50 220,65 190,80"/>
+  <!-- Windows -->
+  <rect fill="#4A4A4A" x="155" y="130" width="20" height="30"/>
+  <rect fill="#4A4A4A" x="225" y="130" width="20" height="30"/>
+  <!-- Door -->
+  <rect fill="#8B4513" x="180" y="150" width="40" height="50"/>
+</svg>

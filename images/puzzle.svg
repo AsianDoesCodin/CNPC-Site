@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect fill="#1a1a2e" width="400" height="300"/>
+  <!-- Stone walls -->
+  <rect fill="#4a4a4a" x="20" y="50" width="360" height="200"/>
+  <rect fill="#1a1a2e" x="40" y="70" width="320" height="160"/>
+  <!-- Puzzle blocks -->
+  <rect fill="#9b59b6" x="60" y="90" width="60" height="60" rx="5"/>
+  <rect fill="#3498db" x="140" y="90" width="60" height="60" rx="5"/>
+  <rect fill="#e74c3c" x="220" y="90" width="60" height="60" rx="5"/>
+  <rect fill="#f1c40f" x="300" y="90" width="60" height="60" rx="5"/>
+  <!-- Puzzle symbols -->
+  <text x="90" y="130" font-size="30" fill="white" text-anchor="middle">?</text>
+  <text x="170" y="130" font-size="30" fill="white" text-anchor="middle">★</text>
+  <text x="250" y="130" font-size="30" fill="white" text-anchor="middle">◆</text>
+  <text x="330" y="130" font-size="30" fill="white" text-anchor="middle">●</text>
+  <!-- Floor -->
+  <rect fill="#2c3e50" x="40" y="180" width="320" height="50"/>
+</svg>

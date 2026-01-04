@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="sky2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB"/>
+      <stop offset="100%" style="stop-color:#E0F6FF"/>
+    </linearGradient>
+  </defs>
+  <rect fill="url(#sky2)" width="400" height="300"/>
+  <!-- Grass -->
+  <rect fill="#5D9B47" x="0" y="180" width="400" height="120"/>
+  <!-- Path -->
+  <path fill="#D2B48C" d="M180,300 Q200,250 220,300 Q240,250 260,300"/>
+  <!-- House 1 -->
+  <rect fill="#8B4513" x="50" y="140" width="80" height="60"/>
+  <polygon fill="#A0522D" points="50,140 90,100 130,140"/>
+  <rect fill="#654321" x="75" y="165" width="25" height="35"/>
+  <!-- House 2 -->
+  <rect fill="#8B4513" x="270" y="150" width="70" height="50"/>
+  <polygon fill="#A0522D" points="270,150 305,115 340,150"/>
+  <rect fill="#654321" x="290" y="170" width="20" height="30"/>
+  <!-- Farm -->
+  <rect fill="#8B6914" x="160" y="200" width="80" height="40"/>
+  <line stroke="#2E7D32" stroke-width="3" x1="170" y1="210" x2="170" y2="230"/>
+  <line stroke="#2E7D32" stroke-width="3" x1="190" y1="210" x2="190" y2="230"/>
+  <line stroke="#2E7D32" stroke-width="3" x1="210" y1="210" x2="210" y2="230"/>
+  <line stroke="#2E7D32" stroke-width="3" x1="230" y1="210" x2="230" y2="230"/>
+  <!-- Sun -->
+  <circle fill="#FFD700" cx="350" cy="50" r="30"/>
+</svg>

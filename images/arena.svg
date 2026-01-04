@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect fill="#8B0000" width="400" height="300"/>
+  <!-- Lava glow -->
+  <ellipse cx="200" cy="280" rx="180" ry="40" fill="#FF4500" opacity="0.5"/>
+  <!-- Arena walls -->
+  <rect fill="#2c2c2c" x="50" y="100" width="300" height="150" rx="10"/>
+  <rect fill="#1a1a1a" x="70" y="120" width="260" height="110"/>
+  <!-- Arena floor -->
+  <rect fill="#3d3d3d" x="70" y="180" width="260" height="50"/>
+  <!-- Fighters -->
+  <rect fill="#4169E1" x="100" y="150" width="30" height="50"/>
+  <rect fill="#4169E1" x="100" y="135" width="30" height="20" rx="5"/>
+  <rect fill="#DC143C" x="270" y="150" width="30" height="50"/>
+  <rect fill="#DC143C" x="270" y="135" width="30" height="20" rx="5"/>
+  <!-- Swords -->
+  <rect fill="#C0C0C0" x="135" y="160" width="40" height="5" transform="rotate(-30 135 160)"/>
+  <rect fill="#C0C0C0" x="230" y="160" width="40" height="5" transform="rotate(210 270 160)"/>
+  <!-- Title -->
+  <text x="200" y="70" font-size="24" fill="#FFD700" text-anchor="middle" font-weight="bold">ARENA</text>
+</svg>
